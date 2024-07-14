@@ -22,82 +22,90 @@ link -> (https://www.linkedin.com/posts/shivam-rajput22_scamawareness-codebasics
 
 # Power Bi Learning from this Project
 
-1. Data Import and Transformation
+1. Data Import and Transformation :-
+   
 Master Data Import: Learn to import data from multiple sources, including databases, spreadsheets, and cloud services.
 Transform Data: Utilize Power Query to clean, reshape, and transform data, ensuring it is ready for analysis. This includes handling missing values, merging tables, and creating calculated columns.
 
-2. Data Modeling
+3. Data Modeling:-
+   
 Build Data Models: Create and manage relationships between different data tables to build a coherent and efficient data model.
 Hierarchies and Dimensions: Develop hierarchies and dimension tables to facilitate detailed and summarized data analysis.
 
-3. DAX Functions
+4. DAX Functions:-
+   
 Complex Calculations: Gain expertise in Data Analysis Expressions (DAX) to perform complex calculations, create measures, and develop custom metrics.
 Advanced DAX: Learn advanced DAX functions such as CALCULATE, FILTER, and time intelligence functions to perform sophisticated data analysis.
 
-4. Interactive Dashboards
+5. Interactive Dashboards :-
+   
 Design Principles: Understand best practices for designing intuitive and interactive dashboards that provide clear insights.
 User Interaction: Implement features like slicers, drill-throughs, and tooltips to enhance user interaction and data exploration.
 
-5. Advanced Visualization
+6. Advanced Visualization :-
+   
 Custom Visuals: Explore and use custom visuals to represent complex data in a more understandable and impactful way.
 Visualization Techniques: Learn techniques for creating advanced visualizations, such as heat maps, scatter plots, and KPI indicators.
 
-6. Performance Optimization
+7. Performance Optimization :-
+   
 Optimization Strategies: Implement best practices for optimizing the performance of Power BI reports and dashboards, including data model optimization, efficient DAX formulas, and query reduction.
 Performance Monitoring: Use Power BI’s performance analyzer to identify and resolve performance bottlenecks.
 
-7. Real-World Application
+8. Real-World Application :-
+   
 Business Scenario Analysis: Apply Power BI skills to real-world business scenarios, specifically focusing on the hospitality industry.
 Strategic Insights: Analyze data to provide strategic insights that enhance revenue, operational efficiency, service quality, and informed decision-making.
 
-8. Sharing and Collaboration
+9. Sharing and Collaboration:-
+   
 Power BI Service: Learn to publish reports to Power BI Service for sharing and collaboration.
 Collaboration Tools: Utilize collaboration features such as dashboards, workspaces, and app distribution to work effectively with stakeholders and team members.
 
 
 # Terms used in business
-1. Gross Price
+1. Gross Price:-
 The total price of goods or services before any deductions or discounts.
 
-2. Pre-Invoice Deductions
+2. Pre-Invoice Deductions :-
 Deductions applied to the gross price before issuing an invoice, such as discounts or rebates.
 
-3. Post-Invoice Deductions
+3. Post-Invoice Deductions :-
 Deductions applied after the invoice has been issued, including returns or allowances.
 
-4. Net Invoice Sale
+4. Net Invoice Sale :-
 The final sale amount after all pre-invoice and post-invoice deductions have been applied.
 
-5. Gross Margin
+5. Gross Margin :-
 The difference between revenue and the cost of goods sold (COGS), expressed as a percentage of revenue.
 Formula: (Revenue - COGS) / Revenue * 100
 
-6. Net Sales
+6. Net Sales :-
 Total sales revenue after all discounts, returns, and allowances have been deducted.
 
-7. Net Profit
+7. Net Profit :-
 The remaining profit after all expenses, taxes, and deductions have been subtracted from total revenue.
 Formula: Total Revenue - Total Expenses
 
-8. Cost of Goods Sold (COGS)
+8. Cost of Goods Sold (COGS) :-
 The direct costs attributable to the production of the goods sold by a company, including materials and labor.
 
-9. Year to Date (YTD)
+9. Year to Date (YTD) :-
 The period beginning from the start of the current fiscal year to the current date, used for measuring performance.
 
-10. Year to Go (YTG)
+10. Year to Go (YTG) :-
 The remaining period in the current fiscal year from the current date to the end of the fiscal year.
 
-11. Direct Sales
+11. Direct Sales :-
 Sales conducted directly between the company and the end consumer, without intermediaries.
 
-12. Retailer
+12. Retailer :-
 A business that sells goods or services directly to the end consumer.
 
-13. Distributors
+13. Distributors :-
 Intermediaries that purchase goods from manufacturers and sell them to retailers or end consumers.
 
-14. Consumer
+14. Consumer :-
 The end user who purchases goods or services for personal use.
 
 # Data Model
