@@ -14,6 +14,8 @@ Due to their recent rapid growth, AtliQ Hardware has made the decision to use Po
 6. Power Bi Service
 7. Dax Studio
 
+# DataSets
+link -> (https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project/lecture/907)
 # Live DashBoard & linkedin post
 link -> (https://app.powerbi.com/view?r=eyJrIjoiNmM5NjcyNjctOTA2Yy00ZWQ5LWIxOWItNTdjZjY3ZjY3YzJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
